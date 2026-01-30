@@ -48,7 +48,7 @@ Unlike standard scanners that simply list open ports, NetGuard includes a **Risk
 #### Option 2: Run from Source
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/NetGuard.git](https://github.com/YOUR_USERNAME/NetGuard.git)
+    git clone [https://github.com/YOUR_USERNAME/NetGuard.git](https://github.com/alkahaleemad/NetGuard.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -69,4 +69,5 @@ Unlike standard scanners that simply list open ports, NetGuard includes a **Risk
 ---
 
 ### ⚠️ Legal Disclaimer
+
 This tool is designed for educational purposes and authorized network administration only. Scanning networks without permission is illegal. The developer is not responsible for misuse of this tool.
